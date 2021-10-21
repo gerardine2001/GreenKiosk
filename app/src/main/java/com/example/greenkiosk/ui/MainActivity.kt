@@ -25,7 +25,4 @@ class MainActivity : AppCompatActivity() {
         rvOrders.adapter=adapter
 
     }
-    fun viewCheckout(){
-        
-    }
 }

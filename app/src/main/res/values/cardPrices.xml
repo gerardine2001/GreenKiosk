@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="cardPrices">
+        <item>300Ksh</item>
+        <item>200Ksh</item>
+        <item>300Ksh</item>
+        <item>80Ksh</item>
+        <item>220Ksh</item>
+        <item>80Ksh</item>
+    </string-array>
+</resources>
